@@ -1,7 +1,12 @@
 #!/usr/bin/env python
 import os
 import sys
+<<<<<<< HEAD
 #sdfghj12345------修复b4567845678ghghhhhhygjug
+
+#sdfghj12345
+#########000000000000000
+>>>>>>> dev
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "a01.settings")
     try:
