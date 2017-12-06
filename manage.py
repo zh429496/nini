@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-#sdfghj12345
+#sdfghj12345------修复bug
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "a01.settings")
     try:
